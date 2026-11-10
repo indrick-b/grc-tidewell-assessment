@@ -1,0 +1,10 @@
+employee,username,department,title,termination_date,reason,it_ticket_opened
+Brian Walsh,bwalsh,IT,IT Technician,2026-03-20,Resigned,No
+Lauren Pratt,lpratt,Sales,Account Executive,2026-05-01,Resigned,No
+Jason Mercer,jmercer,Operations,Logistics Coordinator,2026-08-14,Involuntary,No
+Tina Nguyen,tnguyen,Customer Support,Support Representative,2026-10-09,Resigned,No
+Gabe Foster,gfoster,Operations,Dispatcher,2026-01-16,Resigned,Yes
+Hannah Reyes,hreyes,Finance,Billing Specialist,2026-02-27,Resigned,Yes
+Will Bishop,wbishop,Sales,Sales Coordinator,2026-06-12,Involuntary,Yes
+Mia Torres,mtorres,Customer Support,Support Representative,2026-07-31,Resigned,Yes
+Evan Keller,ekeller,Government Programs,Contracts Coordinator,2026-09-05,Resigned,Yes

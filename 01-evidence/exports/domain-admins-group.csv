@@ -1,0 +1,10 @@
+group,member,display_name,account_type,date_added
+Domain Admins,kdoyle,Kevin Doyle,Named user,2018-07-09
+Domain Admins,acoleman,Andre Coleman,Named user,2023-02-13
+Domain Admins,admin,Administrator (shared),Shared,2017-03-02
+Domain Admins,msp_tech,Bayside IT Partners,Vendor,2022-01-10
+Domain Admins,mhale,Marcus Hale,Named user,2019-11-04
+Domain Admins,rkhan,Rina Khan,Named user,2022-05-17
+Domain Admins,bwalsh,Brian Walsh,Named user,2020-08-24
+Domain Admins,svc_sql,SQL Service,Service,2019-05-20
+Domain Admins,tempuser,Temp User,Shared,2021-09-14

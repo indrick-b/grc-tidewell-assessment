@@ -1,0 +1,2 @@
+risk_id,finding_id,risk_statement,likelihood_1to5,impact_1to5,score,rating,risk_owner,treatment (Mitigate / Accept / Transfer / Avoid),target_date,status
+R-01,F-01,"If passwords stay short and predictable, an attacker could guess or reuse them and log in as an employee, leading to data theft or fraud.",4,3,12,Medium,"Kevin Doyle, IT Manager",Mitigate,2027-01-31,Open

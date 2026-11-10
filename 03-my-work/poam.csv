@@ -1,0 +1,2 @@
+poam_id,finding_id,weakness,nist_800-171_req,risk_rating,point_of_contact,resources_needed,milestones,scheduled_completion,status,comments
+POAM-01,F-01,Password policy (2016) does not meet NIST SP 800-63B-4; 7 accounts set to never expire,"3.5.7, 3.5.8",Medium,"Kevin Doyle, IT Manager",~8 staff hours; banned-password list for on-premises AD may need Microsoft Entra ID P1 licensing (confirm cost),1) Policy v2 approved by CFO by 2026-12-15  2) AD settings changed by 2027-01-15  3) Never-expire accounts fixed or documented by 2027-01-31,2027-01-31,Open,

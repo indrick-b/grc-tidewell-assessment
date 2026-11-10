@@ -1,0 +1,78 @@
+username,display_name,department,title,enabled,created,last_logon,password_last_set,password_never_expires
+acarver,Ava Carver,Customer Support,Support Representative,True,2017-07-01,2026-10-28,2026-09-25,False
+acoleman,Andre Coleman,IT,IT Support Specialist,True,2016-06-16,2026-10-23,2026-10-31,False
+admin,Administrator (shared),IT,Shared admin account,True,2017-03-02,2026-10-31,2019-06-03,True
+bbarrett,Ben Barrett,Operations,Shipping Lead,True,2022-12-20,2026-10-22,2026-09-01,False
+bjoyce,Bryce Joyce,Operations,Shipping Lead,True,2019-01-17,2026-10-20,2026-09-19,False
+bmarsh,Bryce Marsh,Customer Support,Support Team Lead,True,2025-12-09,2026-10-30,2026-09-19,False
+bpratt,Ben Pratt,Operations,Shipping Lead,True,2016-04-28,2026-11-01,2026-10-09,False
+bramsey,Ben Ramsey,Finance,Payroll Specialist,True,2024-07-31,2026-10-22,2026-09-24,False
+bwalsh,Brian Walsh,IT,IT Technician,True,2018-06-26,2026-03-19,2025-11-27,False
+bwolfe,Bryce Wolfe,Sales,Account Executive,True,2017-01-13,2026-10-20,2026-09-08,False
+cfleming,Caleb Fleming,Customer Support,Support Team Lead,True,2022-04-08,2026-10-20,2026-08-12,False
+cgarza,Carla Garza,Operations,Freight Analyst,True,2019-12-04,2026-10-20,2026-09-14,False
+cjames,Carl James,Executive,VP of Customer Accounts,True,2016-02-23,2026-10-22,2026-10-22,False
+cortiz,Caleb Ortiz,Customer Support,Support Team Lead,True,2017-04-11,2026-10-25,2026-09-17,False
+druiz,Dana Ruiz,Finance,Accounts Payable Clerk,True,2017-01-27,2026-11-01,2026-09-21,False
+dsutton,Dmitri Sutton,Sales,Account Executive,True,2025-09-24,2026-10-20,2026-09-21,False
+ekeller,Evan Keller,Government Programs,Contracts Coordinator,False,2021-01-06,2026-09-04,2025-11-06,False
+fbarrett,Felix Barrett,Operations,Dispatcher,True,2022-09-23,2026-10-29,2026-10-13,False
+gbarrett,Gina Barrett,Government Programs,Contracts Coordinator,True,2015-09-27,2026-10-22,2026-10-26,False
+gcarver,Gavin Carver,Customer Support,Support Team Lead,True,2018-04-29,2026-10-29,2026-08-28,False
+gcoleman,Gina Coleman,Operations,Dispatcher,True,2021-04-14,2026-10-26,2026-08-27,False
+gfoster,Gabe Foster,Operations,Dispatcher,False,2019-08-04,2026-01-15,2025-11-22,False
+ghayes,Gina Hayes,Government Programs,Contracts Coordinator,True,2022-02-23,2026-11-01,2026-10-27,False
+glowe,Gina Lowe,Operations,Logistics Coordinator,True,2023-01-11,2026-11-01,2026-10-23,False
+hneal,Helena Neal,Operations,Dispatcher,True,2015-06-13,2026-10-26,2026-09-24,False
+hreyes,Hannah Reyes,Finance,Billing Specialist,False,2023-02-21,2026-02-26,2026-02-22,False
+hwebb,Hector Webb,Finance,Payroll Specialist,True,2026-02-20,2026-10-20,2026-09-27,False
+hyoung,Hugo Young,Operations,Shipping Lead,True,2020-12-27,2026-10-28,2026-08-17,False
+jmercer,Jason Mercer,Operations,Logistics Coordinator,True,2019-09-21,2026-09-22,2025-12-10,False
+jnash,Jamal Nash,Human Resources,HR Generalist,True,2026-03-14,2026-10-26,2026-10-19,False
+kadams,Keisha Adams,Sales,Account Executive,True,2018-12-13,2026-10-27,2026-08-14,False
+kbaker,Keisha Baker,Operations,Logistics Coordinator,True,2025-10-08,2026-10-28,2026-10-11,False
+kdoyle,Kevin Doyle,IT,IT Manager,True,2020-10-25,2026-10-21,2026-08-12,False
+kjordan,Kara Jordan,Customer Support,Support Representative,True,2022-03-31,2026-10-22,2026-08-30,False
+kquint,Kara Quint,Customer Support,Support Representative,True,2018-12-11,2026-10-26,2026-09-18,False
+lbrooks,Lena Brooks,Human Resources,HR Director,True,2023-05-12,2026-10-30,2026-10-29,False
+lellis,Logan Ellis,Operations,Freight Analyst,True,2020-04-25,2026-10-29,2026-09-19,False
+lpratt,Lauren Pratt,Sales,Account Executive,True,2021-07-28,2026-04-30,2025-12-07,False
+mhale,Marcus Hale,Executive,Chief Executive Officer,True,2016-05-24,2026-11-01,2021-04-12,True
+mmarsh,Mila Marsh,Sales,Account Executive,True,2019-07-13,2026-11-01,2026-08-26,False
+msp_tech,Bayside IT Partners,IT,MSP technician account,True,2022-01-10,2026-10-28,2022-01-10,True
+mtorres,Mia Torres,Customer Support,Support Representative,False,2023-12-16,2026-07-30,2026-04-21,False
+nadams,Nate Adams,Operations,Shipping Lead,True,2022-03-23,2026-10-26,2026-09-13,False
+ncoleman,Nate Coleman,Operations,Freight Analyst,True,2019-12-07,2026-10-29,2026-09-28,False
+nibarra,Noah Ibarra,Operations,Logistics Coordinator,True,2023-01-22,2026-10-29,2026-08-13,False
+obarrett,Olivia Barrett,Human Resources,Recruiter,True,2020-07-10,2026-10-30,2026-09-16,False
+odelgado,Olivia Delgado,Operations,Freight Analyst,True,2020-03-25,2026-10-22,2026-08-22,False
+oknox,Olivia Knox,Sales,Sales Coordinator,True,2019-12-02,2026-10-20,2026-10-16,False
+onash,Olivia Nash,Customer Support,Support Team Lead,True,2021-08-13,2026-10-22,2026-09-01,False
+pnatarajan,Priya Natarajan,Executive,Chief Financial Officer,True,2017-12-10,2026-10-23,2026-09-30,False
+pwebb,Pedro Webb,Operations,Dispatcher,True,2020-07-27,2026-10-30,2026-09-09,False
+qlowe,Quinn Lowe,Finance,Billing Specialist,True,2015-10-15,2026-10-29,2026-10-28,False
+rkhan,Rina Khan,Sales,Sales Director,True,2024-12-15,2026-11-01,2026-08-26,False
+rmarsh,Renee Marsh,Sales,Account Executive,True,2018-03-14,2026-10-29,2026-09-03,False
+rprice,Renee Price,Executive,VP,True,2024-09-22,2026-10-31,2026-09-29,False
+scanner,Front Desk Scanner,IT,Scan-to-email account,True,2018-02-08,2026-10-30,2018-02-08,True
+skeller,Sam Keller,Finance,Billing Specialist,True,2021-04-15,2026-10-27,2026-08-29,False
+sowens,Shauna Owens,Government Programs,Government Programs Manager,True,2017-10-04,2026-10-20,2026-10-08,False
+svc_backup,Backup Service,IT,Service account,True,2019-05-20,2026-11-01,2019-05-20,True
+svc_sql,SQL Service,IT,Service account,True,2019-05-20,2026-11-01,2019-05-20,True
+swebb,Sam Webb,Customer Support,Support Representative,True,2023-01-06,2026-10-23,2026-10-24,False
+syoung,Sam Young,Sales,Account Executive,True,2022-08-27,2026-10-31,2026-09-01,False
+talvarez,Tom Alvarez,Operations,Director of Operations,True,2016-11-23,2026-10-29,2026-10-24,False
+tempuser,Temp User,IT,Temporary contractor account,True,2021-09-14,2025-12-03,2021-09-14,True
+tnguyen,Tina Nguyen,Customer Support,Support Representative,True,2018-09-04,2026-10-08,2026-04-27,False
+tvargas,Tessa Vargas,Operations,Dispatcher,True,2024-05-31,2026-10-23,2026-10-31,False
+vhayes,Vera Hayes,Customer Support,Support Representative,True,2024-10-22,2026-11-01,2026-10-30,False
+vunderwood,Vera Underwood,Sales,Sales Coordinator,True,2026-01-19,2026-10-28,2026-09-18,False
+wbishop,Will Bishop,Sales,Sales Coordinator,False,2017-01-01,2026-06-12,2026-05-30,False
+wfleming,Wendy Fleming,Customer Support,Support Team Lead,True,2018-12-02,2026-10-31,2026-10-20,False
+wortiz,Wendy Ortiz,Government Programs,Contracts Coordinator,True,2023-10-17,2026-11-01,2026-10-21,False
+wshaw,Wade Shaw,Sales,Account Executive,True,2022-11-24,2026-10-29,2026-10-21,False
+xmarsh,Ximena Marsh,Operations,Logistics Coordinator,True,2020-08-07,2026-10-30,2026-10-18,False
+xramsey,Ximena Ramsey,Operations,Logistics Coordinator,True,2025-10-03,2026-10-20,2026-08-21,False
+xrhodes,Ximena Rhodes,Finance,Billing Specialist,True,2019-10-29,2026-10-22,2026-09-14,False
+zdelgado,Zoe Delgado,Government Programs,Contracts Coordinator,True,2015-01-19,2026-10-31,2026-10-22,False
+zibarra,Zoe Ibarra,Customer Support,Support Team Lead,True,2016-08-21,2026-10-25,2026-09-29,False

@@ -1,0 +1,63 @@
+username,employee,department,course,completed,completion_date,cui_handling_module
+mhale,Marcus Hale,Executive,Annual Security Awareness 2026,Yes,2026-01-19,N/A
+pnatarajan,Priya Natarajan,Executive,Annual Security Awareness 2026,Yes,2026-04-29,N/A
+lbrooks,Lena Brooks,Human Resources,Annual Security Awareness 2026,Yes,2026-03-02,N/A
+talvarez,Tom Alvarez,Operations,Annual Security Awareness 2026,No,,No
+kdoyle,Kevin Doyle,IT,Annual Security Awareness 2026,Yes,2026-04-26,N/A
+acoleman,Andre Coleman,IT,Annual Security Awareness 2026,Yes,2026-03-19,N/A
+rkhan,Rina Khan,Sales,Annual Security Awareness 2026,Yes,2026-03-06,N/A
+druiz,Dana Ruiz,Finance,Annual Security Awareness 2026,No,,N/A
+sowens,Shauna Owens,Government Programs,Annual Security Awareness 2026,No,,No
+cjames,Carl James,Executive,Annual Security Awareness 2026,No,,N/A
+rprice,Renee Price,Executive,Annual Security Awareness 2026,No,,N/A
+hwebb,Hector Webb,Finance,Annual Security Awareness 2026,Yes,2026-03-21,N/A
+bramsey,Ben Ramsey,Finance,Annual Security Awareness 2026,Yes,2026-04-09,N/A
+xrhodes,Ximena Rhodes,Finance,Annual Security Awareness 2026,No,,N/A
+skeller,Sam Keller,Finance,Annual Security Awareness 2026,Yes,2026-03-13,N/A
+qlowe,Quinn Lowe,Finance,Annual Security Awareness 2026,Yes,2026-03-26,N/A
+obarrett,Olivia Barrett,Human Resources,Annual Security Awareness 2026,Yes,2026-02-11,N/A
+jnash,Jamal Nash,Human Resources,Annual Security Awareness 2026,Yes,2026-03-13,N/A
+xramsey,Ximena Ramsey,Operations,Annual Security Awareness 2026,No,,No
+gcoleman,Gina Coleman,Operations,Annual Security Awareness 2026,Yes,2026-02-19,Yes
+tvargas,Tessa Vargas,Operations,Annual Security Awareness 2026,No,,No
+xmarsh,Ximena Marsh,Operations,Annual Security Awareness 2026,No,,No
+hneal,Helena Neal,Operations,Annual Security Awareness 2026,Yes,2026-04-13,Yes
+kbaker,Keisha Baker,Operations,Annual Security Awareness 2026,Yes,2026-03-26,No
+fbarrett,Felix Barrett,Operations,Annual Security Awareness 2026,Yes,2026-04-24,No
+nadams,Nate Adams,Operations,Annual Security Awareness 2026,Yes,2026-04-01,Yes
+bjoyce,Bryce Joyce,Operations,Annual Security Awareness 2026,No,,No
+cgarza,Carla Garza,Operations,Annual Security Awareness 2026,Yes,2026-04-18,Yes
+bpratt,Ben Pratt,Operations,Annual Security Awareness 2026,Yes,2026-02-02,No
+glowe,Gina Lowe,Operations,Annual Security Awareness 2026,Yes,2026-04-25,Yes
+odelgado,Olivia Delgado,Operations,Annual Security Awareness 2026,No,,No
+pwebb,Pedro Webb,Operations,Annual Security Awareness 2026,Yes,2026-01-17,Yes
+hyoung,Hugo Young,Operations,Annual Security Awareness 2026,No,,No
+ncoleman,Nate Coleman,Operations,Annual Security Awareness 2026,No,,No
+bbarrett,Ben Barrett,Operations,Annual Security Awareness 2026,Yes,2026-04-09,Yes
+lellis,Logan Ellis,Operations,Annual Security Awareness 2026,Yes,2026-04-27,No
+nibarra,Noah Ibarra,Operations,Annual Security Awareness 2026,Yes,2026-04-28,No
+wshaw,Wade Shaw,Sales,Annual Security Awareness 2026,Yes,2026-02-21,N/A
+rmarsh,Renee Marsh,Sales,Annual Security Awareness 2026,No,,N/A
+vunderwood,Vera Underwood,Sales,Annual Security Awareness 2026,No,,N/A
+kadams,Keisha Adams,Sales,Annual Security Awareness 2026,No,,N/A
+bwolfe,Bryce Wolfe,Sales,Annual Security Awareness 2026,No,,N/A
+oknox,Olivia Knox,Sales,Annual Security Awareness 2026,Yes,2026-04-15,N/A
+dsutton,Dmitri Sutton,Sales,Annual Security Awareness 2026,Yes,2026-04-25,N/A
+mmarsh,Mila Marsh,Sales,Annual Security Awareness 2026,Yes,2026-01-20,N/A
+syoung,Sam Young,Sales,Annual Security Awareness 2026,Yes,2026-01-23,N/A
+cfleming,Caleb Fleming,Customer Support,Annual Security Awareness 2026,No,,N/A
+gcarver,Gavin Carver,Customer Support,Annual Security Awareness 2026,Yes,2026-03-02,N/A
+acarver,Ava Carver,Customer Support,Annual Security Awareness 2026,No,,N/A
+zibarra,Zoe Ibarra,Customer Support,Annual Security Awareness 2026,Yes,2026-03-24,N/A
+cortiz,Caleb Ortiz,Customer Support,Annual Security Awareness 2026,No,,N/A
+kjordan,Kara Jordan,Customer Support,Annual Security Awareness 2026,Yes,2026-03-03,N/A
+vhayes,Vera Hayes,Customer Support,Annual Security Awareness 2026,No,,N/A
+bmarsh,Bryce Marsh,Customer Support,Annual Security Awareness 2026,Yes,2026-03-23,N/A
+wfleming,Wendy Fleming,Customer Support,Annual Security Awareness 2026,Yes,2026-02-22,N/A
+swebb,Sam Webb,Customer Support,Annual Security Awareness 2026,Yes,2026-02-16,N/A
+kquint,Kara Quint,Customer Support,Annual Security Awareness 2026,Yes,2026-03-19,N/A
+onash,Olivia Nash,Customer Support,Annual Security Awareness 2026,No,,N/A
+zdelgado,Zoe Delgado,Government Programs,Annual Security Awareness 2026,No,,No
+wortiz,Wendy Ortiz,Government Programs,Annual Security Awareness 2026,Yes,2026-03-11,No
+gbarrett,Gina Barrett,Government Programs,Annual Security Awareness 2026,Yes,2026-01-13,No
+ghayes,Gina Hayes,Government Programs,Annual Security Awareness 2026,Yes,2026-04-01,No

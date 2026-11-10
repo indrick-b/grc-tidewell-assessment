@@ -1,0 +1,7 @@
+hostname,role,os,location,holds_cui,last_patch_date,backed_up
+DC01,"Domain controller, DNS",Windows Server 2019,Office server closet,No,2026-10-16,Yes
+FS01,"File server (shares: Finance, HR, Operations, GovPrograms)",Windows Server 2012 R2,Office server closet,Yes,2023-09-14,Yes
+APP01,Freight dispatch application,Windows Server 2022,Office server closet,Yes,2026-10-16,Yes
+SQL01,Database for dispatch application,Windows Server 2022,Office server closet,Yes,2026-10-16,Yes
+BACKUP01,Backup server and backup storage,Windows Server 2016,Office server closet,Yes (backup copies),2026-10-16,N/A
+PRINT01,Print server,Windows Server 2019,Office server closet,No,2026-10-16,No

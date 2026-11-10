@@ -1,0 +1,7 @@
+vendor,service,data_access,contract_on_file,security_review_date,soc2_report_on_file,approved_by_it
+Bayside IT Partners,"Managed IT support (after-hours, server work)",Domain Admin + M365 Global Admin,Yes (2022),Never,No,Yes
+PayNest Payroll,Payroll processing,"Employee SSNs, bank accounts, salaries",Yes (2020),Never,No,Yes
+Microsoft 365,"Email, Teams, OneDrive",All company email and files,Yes,2024-03-11,Yes,Yes
+RouteLine Software,Freight tracking SaaS,Shipment data incl. defense shipment details,Yes (2023),2023-06-02,Yes (expired 2024),Yes
+Dropbox (personal accounts),File sharing with prime contractor,Defense shipment manifests,No,Never,No,No
+SecureShred Tampa,Paper shredding,Printed documents,Yes (2021),2021-08-30,N/A,Yes

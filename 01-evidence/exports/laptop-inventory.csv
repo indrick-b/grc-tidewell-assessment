@@ -1,0 +1,49 @@
+asset_tag,assigned_user,department,model,os,bitlocker,last_patch_date,edr_agent,status
+TW-LT-001,mhale,Executive,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-20,Installed,In use
+TW-LT-002,pnatarajan,Executive,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-16,Installed,In use
+TW-LT-003,lbrooks,Human Resources,Dell Latitude 5420,Windows 11 Pro 23H2,Off,2026-06-03,Installed,In use
+TW-LT-004,talvarez,Operations,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-14,Installed,In use
+TW-LT-005,kdoyle,IT,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-26,Installed,In use
+TW-LT-006,acoleman,IT,Dell Latitude 5400,Windows 10 Pro 22H2,Off,2026-06-17,Installed,In use
+TW-LT-007,rkhan,Sales,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-27,Installed,In use
+TW-LT-008,druiz,Finance,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-26,Installed,In use
+TW-LT-009,sowens,Government Programs,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-31,Installed,In use
+TW-LT-010,cjames,Executive,Dell Latitude 5420,Windows 11 Pro 23H2,Off,2026-05-24,Installed,In use
+TW-LT-011,rprice,Executive,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-21,Installed,In use
+TW-LT-012,hwebb,Finance,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-28,Installed,In use
+TW-LT-013,bramsey,Finance,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-15,Installed,In use
+TW-LT-014,xrhodes,Finance,Dell Latitude 5400,Windows 10 Pro 22H2,Off,2026-08-22,Installed,In use
+TW-LT-015,skeller,Finance,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-22,Installed,In use
+TW-LT-016,qlowe,Finance,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-16,Installed,In use
+TW-LT-017,obarrett,Human Resources,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-19,Installed,In use
+TW-LT-018,jnash,Human Resources,Dell Latitude 5420,Windows 11 Pro 23H2,Off,2026-10-19,Installed,In use
+TW-LT-019,xramsey,Operations,Lenovo ThinkPad T14,Windows 11 Pro 23H2,On,2026-10-16,Installed,In use
+TW-LT-020,gcoleman,Operations,Lenovo ThinkPad T14,Windows 11 Pro 23H2,On,2026-10-16,Installed,In use
+TW-LT-021,tvargas,Operations,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-29,Installed,In use
+TW-LT-022,xmarsh,Operations,Lenovo ThinkPad T14,Windows 11 Pro 23H2,Off,2026-06-27,Installed,In use
+TW-LT-023,hneal,Operations,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-19,Installed,In use
+TW-LT-024,kbaker,Operations,Lenovo ThinkPad T14,Windows 11 Pro 23H2,On,2026-10-27,Installed,In use
+TW-LT-025,fbarrett,Operations,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-15,Installed,In use
+TW-LT-026,nadams,Operations,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-24,Installed,In use
+TW-LT-027,bjoyce,Operations,Dell Latitude 5440,Windows 11 Pro 23H2,Off,2026-10-20,Installed,In use
+TW-LT-028,cgarza,Operations,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-31,Installed,In use
+TW-LT-029,bpratt,Operations,Lenovo ThinkPad T14,Windows 11 Pro 23H2,On,2026-10-31,Installed,In use
+TW-LT-030,glowe,Operations,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-23,Installed,In use
+TW-LT-031,odelgado,Operations,Dell Latitude 5400,Windows 10 Pro 22H2,Off,2026-06-18,Installed,In use
+TW-LT-032,pwebb,Operations,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-15,Installed,In use
+TW-LT-033,hyoung,Operations,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-31,Installed,In use
+TW-LT-034,ncoleman,Operations,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-18,Installed,In use
+TW-LT-035,bbarrett,Operations,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-25,Installed,In use
+TW-LT-036,lellis,Operations,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-27,Installed,In use
+TW-LT-037,nibarra,Operations,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-23,Installed,In use
+TW-LT-038,wshaw,Sales,Lenovo ThinkPad T14,Windows 11 Pro 23H2,On,2026-10-29,Installed,In use
+TW-LT-039,rmarsh,Sales,Dell Latitude 5440,Windows 11 Pro 23H2,Off,2026-05-06,Installed,In use
+TW-LT-040,vunderwood,Sales,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-20,Installed,In use
+TW-LT-041,kadams,Sales,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-23,Installed,In use
+TW-LT-042,bwolfe,Sales,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-29,Installed,In use
+TW-LT-043,oknox,Sales,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-23,Installed,In use
+TW-LT-044,dsutton,Sales,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-29,Installed,In use
+TW-LT-045,mmarsh,Sales,Dell Latitude 5400,Windows 10 Pro 22H2,Off,2026-06-17,Installed,In use
+TW-LT-046,syoung,Sales,Dell Latitude 5440,Windows 11 Pro 23H2,On,2026-10-31,Installed,In use
+TW-LT-047,zdelgado,Government Programs,Dell Latitude 5420,Windows 11 Pro 23H2,On,2026-10-19,Installed,In use
+TW-LT-048,jmercer,Operations,Dell Latitude 5420,Windows 11 Pro 23H2,Off,2026-08-12,Installed,Not returned
