@@ -1,0 +1,4 @@
+date,vendor,requested_by,request_channel,old_account_last4,new_account_last4,verified_by_phone_callback,entered_by,approved_by,notes
+2026-02-11,RouteLine Software,RouteLine billing,Email,4471,9902,Yes,druiz,pnatarajan,Called number on contract
+2026-05-20,PayNest Payroll,PayNest account manager,Email,1180,1180,N/A,druiz,druiz,Address change only
+2026-10-14,SecureShred Tampa,billing@secureshred-tampa.example,Email,6624,3057,No,druiz,druiz,"Email said new bank after merger; next payment $2,180 due 2026-11-14"

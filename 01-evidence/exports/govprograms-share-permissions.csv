@@ -1,0 +1,9 @@
+server,share_path,principal,principal_type,permission,inherited,date_added,added_by,members_count
+FS01,\\FS01\GovPrograms,Domain Admins,Security group,Full Control,No,2017-03-02,admin,7
+FS01,\\FS01\GovPrograms,GovPrograms-Staff,Security group,Modify,No,2024-04-15,kdoyle,6
+FS01,\\FS01\GovPrograms,Operations-All,Security group,Modify,No,2024-04-15,kdoyle,27
+FS01,\\FS01\GovPrograms,Sales-Team,Security group,Modify,No,2022-11-03,bwalsh,14
+FS01,\\FS01\GovPrograms,Everyone,Built-in group,Read,Yes (from D:\Shares),2017-03-02,admin,All accounts
+FS01,\\FS01\GovPrograms,msp_tech,User,Full Control,No,2022-01-10,admin,1
+FS01,\\FS01\GovPrograms,tempuser,User,Modify,No,2021-09-14,admin,1
+FS01,\\FS01\GovPrograms\Manifests-CUI,(inherits all of the above),—,—,Yes,—,—,—
