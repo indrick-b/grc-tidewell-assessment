@@ -29,8 +29,11 @@ As Tidewell's new GRC Analyst, you will:
 1. Review the evidence in [`01-evidence/`](../01-evidence/) (interview notes, policies, and system exports).
 2. Test it against the control checklist in [`02-framework/`](../02-framework/).
 3. Write findings, rate the risks, and build a remediation plan (POA&M).
-4. Rewrite the outdated password policy.
+4. Rewrite the outdated password and incident response policies.
 5. Answer Brightwater's questionnaire honestly.
-6. Brief leadership with a one-page executive summary.
+6. Review the vendors, run a user access review, and search the sign-in logs in Splunk.
+7. Write the federal paperwork for Northstar (FIPS 199, SSP, SAP, SAR).
+8. Handle the judgment calls in [`judgment-calls.md`](judgment-calls.md).
+9. Brief leadership with a one-page executive summary.
 
 Assessment date: **November 2, 2026.**

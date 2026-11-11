@@ -1,0 +1,13 @@
+user,display_name,ledgerpoint_role,create_or_edit_vendor,change_vendor_bank_details,enter_bills,approve_payments,release_payments,payment_approval_limit_usd,mfa_enforced,account_status,last_login
+pnatarajan,Priya Natarajan,Finance Admin,Yes,Yes,Yes,Yes,Yes,No limit,Yes,Active,2026-10-30
+mhale,Marcus Hale,Approver,No,No,No,Yes,No,No limit,No,Active,2026-10-15
+druiz,Dana Ruiz,AP Clerk (custom),Yes,Yes,Yes,Yes,Yes,"10,000",No,Active,2026-11-02
+skeller,Sam Keller,Billing,No,No,No,No,No,0,No,Active,2026-10-29
+qlowe,Quinn Lowe,Billing,No,No,No,No,No,0,No,Active,2026-10-30
+xrhodes,Ximena Rhodes,Billing,No,No,No,No,No,0,No,Active,2026-10-27
+hreyes,Hannah Reyes,Billing,No,No,No,No,No,0,No,Active,2026-03-02
+bramsey,Ben Ramsey,Payroll,No,No,Yes,No,No,0,No,Active,2026-10-28
+hwebb,Hector Webb,Payroll,No,No,Yes,No,No,0,No,Active,2026-10-28
+kdoyle,Kevin Doyle,System Admin,Yes,Yes,Yes,Yes,Yes,No limit,No,Active,2026-06-11
+bayside_support,Bayside IT Partners (shared),System Admin,Yes,Yes,Yes,Yes,Yes,No limit,No,Active,2026-10-21
+talvarez,Tom Alvarez,Read Only,No,No,No,No,No,0,No,Active,2026-09-30

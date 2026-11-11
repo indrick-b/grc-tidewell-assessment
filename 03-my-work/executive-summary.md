@@ -10,7 +10,7 @@
 *Two or three sentences. How exposed is Tidewell right now, and what is the single most important thing to do first?*
 
 ## What we tested
-*One sentence: how many controls, which frameworks, what evidence (interviews, policies, system exports).*
+*One sentence: how many controls, which frameworks, what evidence (interviews, policies, system exports, sign-in logs, vendor documents).*
 
 ## Results at a glance
 | Result | Count |
@@ -21,6 +21,9 @@
 | High-risk findings | |
 | Medium-risk findings | |
 | Low-risk findings | |
+
+## Risk picture
+*Paste or describe the heat map from the workbook. How many risks are in the red zone?*
 
 ## Top 5 fixes, in order
 | # | Fix | Why it's first | Protects | Rough cost | Owner | Target date |

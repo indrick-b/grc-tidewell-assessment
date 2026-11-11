@@ -1,0 +1,4 @@
+request_id,control_id,evidence_requested,owner,date_requested,date_due,date_received,status (Requested / Received / Partial / Not available),notes
+ER-01,TW-01,Current password policy and AD domain password policy settings,"Kevin Doyle, IT Manager",2026-10-24,2026-10-27,2026-10-27,Received,Policy IT-004 received. AD settings matched the policy.
+ER-02,TW-02,,,,,,,
+ER-03,TW-03,,,,,,,

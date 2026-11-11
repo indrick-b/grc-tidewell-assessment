@@ -1,0 +1,6 @@
+review_id,system,account,person,department_or_owner,access_level,still_employed_per_HR,business_need_confirmed_by,needs_this_access (Yes / No / Reduce),decision (Keep / Remove / Modify),reason,reviewer,review_date,fixed_date
+UAR-01,Domain Admins (AD),admin,Shared account,IT,Domain Admin + M365 Global Admin,N/A (shared),"Kevin Doyle, IT Manager",No,Modify,"Shared accounts can't be traced to one person (NIST 800-171 3.5.1). Disable for daily use, change the password, store it in a sealed break-glass process, and require named admin accounts.",Indrick Bodkin,2026-11-03,
+UAR-02,Domain Admins (AD),,,,,,,,,,,,
+UAR-03,LedgerPoint,,,,,,,,,,,,
+UAR-04,\\FS01\GovPrograms,,,,,,,,,,,,
+UAR-05,PayNest portal,,,,,,,,,,,,

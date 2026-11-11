@@ -18,7 +18,7 @@ Each finding uses the standard audit format:
 | Field | Detail |
 | --- | --- |
 | Control | TW-01 |
-| Frameworks | NIST CSF PR.AA-01 · NIST 800-53 IA-5(1) · NIST 800-171 3.5.7, 3.5.8 · SOC 2 CC6.1 |
+| Frameworks | NIST CSF PR.AA-01 · NIST 800-53 IA-5(1) · NIST 800-171 3.5.7, 3.5.8 · SOC 2 CC6.1 · ISO 27001 A.5.17 · CIS 5.2 |
 | Risk rating | Medium (Likelihood 4 × Impact 3 = 12) — see R-01 |
 | Status | Not met |
 
